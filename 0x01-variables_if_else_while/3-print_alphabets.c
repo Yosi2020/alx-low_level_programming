@@ -1,18 +1,18 @@
 #include <stdio.h>
 
 /**
- * main -entry point
+ * main - Entry point
  *
- * Return: always 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-char x = 'a', y = 'A';
+	char x = 'a', y = 'A';
 
-for (; x <= 'z'; x++)
-  putchar(x);
-for (; y <= 'z'; y++)
-  putchar(y);
-putchar('\n');
-return (0);
+	for (; x <= 'z'; x++)
+		putchar(x);
+	for (; y <= 'Z'; y++)
+		putchar(y);
+	putchar('\n');
+	return (0);
 }
