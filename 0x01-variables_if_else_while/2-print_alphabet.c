@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-c
-=======
 #include <stdio.h>
 
 /**
