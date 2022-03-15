@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-#include <studio.h>
-#include <main.h>
-
-=======
 #include <stdio.h>
 #include "main.h"
 
@@ -25,4 +20,3 @@ int main(void)
 
 	return (0);
 }
->>>>>>> 502cce498d7773139690c8409c3f8f0c4c60f3cd
