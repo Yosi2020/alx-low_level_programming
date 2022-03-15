@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <main.h>
 
 /*
@@ -15,5 +14,5 @@ while(eyu <= "z"){
 _putchar(eyu);
 eyu++;
 
-return (0);
+_putchar('/n');
 }
