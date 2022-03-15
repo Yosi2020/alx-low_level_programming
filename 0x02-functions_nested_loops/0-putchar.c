@@ -1,13 +1,3 @@
-#include <stdio.h>
+#include <studio.h>
+#include <main.h>
 
-/**
- * main - Entry point
- *
- * Retrun 0 (always success)
- */
-
-int main (void)
-{
-printf('_putchar\n');
-return (0);
-}
