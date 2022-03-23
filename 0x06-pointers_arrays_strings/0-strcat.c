@@ -5,7 +5,7 @@
  * @dest: the destination
  * @src: the source to be concatenated to @dest
  * Return: dest
- *?
+ */
 
 char *_strcat(char *dest, char *src)
 {
